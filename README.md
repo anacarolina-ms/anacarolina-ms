@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Ana e uma futura dev!
 <div align="center">
   <a href="https://github.com/anacarolina-ms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolina-ms&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolina-ms&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacarolina-ms&show_icons=true&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolina-ms&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -13,8 +13,8 @@
   <img align="center" alt="Ana-RPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> 
   <img align="center" alt="Ana-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Ana-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Ana-Pic" height="150" width="150" style="border-radius:50px;" src="https://i.imgur.com/3y86LdP.png">
-  <img align="right" alt="Jokes-Card" height="150" width="300" src="https://readme-jokes.vercel.app/api?borderColor=%23FFFF&theme=dracula"/>
+  <img align="right" alt="Ana-Pic" height="150" width="150" src="https://i.imgur.com/n0qsC1w.png">
+  <img align="right" alt="Jokes-Card" height="150" width="267" src="https://readme-jokes.vercel.app/api?borderColor=%23FFFF&theme=dracula"/>
 </div>
 
   ##
