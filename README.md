@@ -45,8 +45,7 @@ const ana = {
 ## <img src="https://media1.giphy.com/media/kDXf683QhH07VFQelQ/200w.webp?cid=ecf05e47ny8jumt4qin2n5ic0szj9uqi5rq1489mrwen1pgi&rid=200w.webp&ct=s" width="30"> My stats!
 
 <div align="center">
-  <a href="https://github.com/anacarolina-ms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolina-ms&show_icons=true&theme=dracula"/>
+  <a href="https://github.com/anacarolina-ms"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anacarolina-ms&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Stats" /></a> 
 </div>
 
 <div>
