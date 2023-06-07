@@ -1,6 +1,6 @@
 ## Hey! I'm Ana <img src="https://media0.giphy.com/media/aGJw0QaCx04Wk/giphy.gif?cid=ecf05e470lvbsjsl48d468eh747cz2rilphuu4yx3rhew2a0&rid=giphy.gif&ct=s" width="50">
 
-<p><em>Product and Development Trainee at <a href="https://nexxus-es.com.br/">Nexxus Evolution Systems
+<p><em>System Developer Trainee at <a href="https://nexxus-es.com.br/">Nexxus Evolution Systems
 </a><img src="https://media2.giphy.com/media/utfeiHQ7CcpyRtXla6/200w.webp?cid=ecf05e4756r1tu4lmsodlee0qjz0g1dsv6g0gf1gmvdzldj0&rid=200w.webp&ct=s" width="30"> 
 </em></p>
 
@@ -34,10 +34,10 @@
 ```javascript
 const ana = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "C", "C++"],
-    tools: [Node, Docker, NodeRed],
-    askMeAbout: ["web dev", "tech", "mechatronics", "rpg", "games"],
-    currentFocus: "Learning to be a Front-end developer",
+    code: ["Javascript", "C", "C++", "C#", "VB.NET"],
+    tools: [Node, Git, SQL, DevExpress],
+    askMeAbout: ["dev", "tech", "mechatronics", "rpg", "games", "books"],
+    currentFocus: "Learning to be a Full-Stack developer",
     funFact: "The world's first programmer was a woman, Ada Lovelace <3"
 };
 ```
