@@ -1,15 +1,9 @@
 ## Hi! I'm Ana, nice to meet you!
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anacmarcelo@gmail.com/" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacmarcelo/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://contate.me/nina-eng" alt="WhatsApp"/></a>
-  <a href="#" title="GitHub followers">
-  <img src="https://img.shields.io/github/followers/anacarolina-ms?label=Follow&style=social" alt="GitHub"/></a>
-</p>
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:anacmarcelo@gmail.com)
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/anacmarcelo/)
+[<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>](https://contate.me/nina-eng)
+<img src="https://img.shields.io/github/followers/anacarolina-ms?label=Follow&style=social" alt="GitHub"/>
 
 ## <img src="https://media1.giphy.com/media/kDXf683QhH07VFQelQ/200w.webp?cid=ecf05e47ny8jumt4qin2n5ic0szj9uqi5rq1489mrwen1pgi&rid=200w.webp&ct=s" width="20"> SKILLS
 
